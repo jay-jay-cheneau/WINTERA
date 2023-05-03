@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Le Jour Serif Personal Use';
+    src: url('LeJour-Serif.eot');
+    src: url('LeJour-Serif.eot?#iefix') format('embedded-opentype'),
+        url('LeJour-Serif.woff2') format('woff2'),
+        url('LeJour-Serif.woff') format('woff'),
+        url('LeJour-Serif.ttf') format('truetype'),
+        url('LeJour-Serif.svg#LeJour-Serif') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('HiraMaruPro-W4-AlphaNum.eot');
+    src: url('HiraMaruPro-W4-AlphaNum.eot?#iefix') format('embedded-opentype'),
+        url('HiraMaruPro-W4-AlphaNum.woff2') format('woff2'),
+        url('HiraMaruPro-W4-AlphaNum.woff') format('woff'),
+        url('HiraMaruPro-W4-AlphaNum.ttf') format('truetype'),
+        url('HiraMaruPro-W4-AlphaNum.svg#HiraMaruPro-W4-AlphaNum') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
